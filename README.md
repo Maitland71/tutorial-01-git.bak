@@ -1,2 +1,2 @@
-# tutorial-01-git
-Tutorial sobre Git
+# Tutorial sobre el sistema Git
+
