@@ -84,7 +84,7 @@ $ git add .
 $ git commit -m "Commit inicial"
 
 # El repositorio pruebas-github-02 debe ser creado en GitHub (creelo sin ningún archivo)
-# Se especifica cuál es la direcciṕn del repositorio remito
+# Se especifica cuál es la direcciṕn del repositorio remoto
 $ git remote add origin https://github.com/mfvargas/pruebas-github-02.git
 
 $ git push -u origin master
