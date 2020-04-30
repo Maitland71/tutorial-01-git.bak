@@ -19,6 +19,8 @@ El protocolo de Git es utilizado en varios sitios que proveen servicios de aloja
 ## Ejemplos de uso de comandos
 Git cuenta con varias [interfaces gráficas](https://git-scm.com/downloads/guis). Aquí se ejemplificará su uso mediante [comandos](https://git-scm.com/docs/git#_git_commands).
 
+Para seguir los ejemplos que se presentan a continuación, se recomienda crear un repositorio en GitHub (ej. pruebas-github-01) para propósitos de pruebas, con al menos un archivo (ej. README.md). Al reproducir los comandos en su computadora, recuerde cambiar el nombre de usuario, rutas y otros elementos.
+
 ### Configuración
 El comando [git config](https://git-scm.com/docs/git-config) se utiliza para especificar opciones generales.
 ```terminal
@@ -29,3 +31,9 @@ $ git config --global user.email "mfvargas@gmail.com"
 $ git config --global user.name "Manuel Vargas"
 ```
 
+### Clonación de un repositorio
+La clonación de un repositorio se realiza mediante el comando [git clone](https://git-scm.com/docs/git-clone).
+```terminal
+# Clonación del repositorio de pruebas
+$ git clone https://github.com/mfvargas/pruebas-github-01.git
+```
