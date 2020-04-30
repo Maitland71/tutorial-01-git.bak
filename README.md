@@ -58,7 +58,8 @@ $ git add .
 # Commit
 $ git commit -m "Primera modificación"
 
-# Push
+# Comando push
+# origin tiene la dirección del repositorio remoto y master es la rama que se está sincronizando
 git push -u origin master
 ```
 
@@ -67,4 +68,22 @@ El comando [git pull](https://git-scm.com/docs/git-pull) sincroniza en el reposi
 ```terminal
 # Pull
 git pull
+```
+### Creación de un repositorio local
+```terminal
+# Creación del directorio
+$ cd
+$ mkdir pruebas-github-02
+$ cd pruebas-github-02
+
+# Inicialización
+$ git init
+$ git add .
+$ git commit -m "Commit inicial"
+
+# El repositorio pruebas-github-02 debe ser creado en GitHub (creelo sin ningún archivo)
+# Se especifica cuál es la direcciṕn del repositorio remito
+$ git remote add origin https://github.com/mfvargas/pruebas-github-02.git
+
+$ git push -u origin master
 ```
