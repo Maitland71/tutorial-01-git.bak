@@ -62,3 +62,9 @@ $ git commit -m "Primera modificación"
 git push -u origin master
 ```
 
+### Modificación de un repositorio local
+El comando [git pull](https://git-scm.com/docs/git-pull) sincroniza en el repositorio local los cambios realizados en un repositorio remoto.
+```terminal
+# Pull
+git pull
+```
