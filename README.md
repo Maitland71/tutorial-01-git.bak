@@ -17,5 +17,15 @@ Git fue desarrollado por [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_To
 El protocolo de Git es utilizado en varios sitios que proveen servicios de alojamiento de software, entre los que están [SourceForge](https://sourceforge.net/), [Bitbucket](https://bitbucket.org/), [GitLab](https://about.gitlab.com/) y [GitHub](https://github.com/).
 
 ## Ejemplos de uso de comandos
-Git cuenta con varias [interfaces gráficas](https://git-scm.com/downloads/guis). Aquí se ejemplificará el uso de Git mediante [comandos](https://git-scm.com/docs/git#_git_commands).
+Git cuenta con varias [interfaces gráficas](https://git-scm.com/downloads/guis). Aquí se ejemplificará su uso mediante [comandos](https://git-scm.com/docs/git#_git_commands).
+
+### Configuración
+El comando [git config](https://git-scm.com/docs/git-config) se utiliza para especificar opciones generales.
+```terminal
+# Correo electrónico del usuario
+$ git config --global user.email "mfvargas@gmail.com"
+
+# Nombre del usuario
+$ git config --global user.name "Manuel Vargas"
+```
 
