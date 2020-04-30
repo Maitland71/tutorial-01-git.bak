@@ -34,6 +34,11 @@ $ git config --global user.name "Manuel Vargas"
 ### Clonación de un repositorio
 La clonación de un repositorio se realiza mediante el comando [git clone](https://git-scm.com/docs/git-clone).
 ```terminal
+# Selección del directorio (ej. directorio "home" del usuario)
+$ cd
+
 # Clonación del repositorio de pruebas
 $ git clone https://github.com/mfvargas/pruebas-github-01.git
 ```
+
+Modifique el archivo clonado.
