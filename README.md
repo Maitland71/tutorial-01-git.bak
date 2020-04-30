@@ -41,4 +41,21 @@ $ cd
 $ git clone https://github.com/mfvargas/pruebas-github-01.git
 ```
 
-Modifique el archivo clonado.
+Modifique algún archivo del repositorio clonado.
+
+### Modificación de un repositorio remoto
+El comando [git push](https://git-scm.com/docs/git-push) sincroniza en un repositorio remoto los cambios realizados en el repositorio local.
+```terminal
+# Revisión de los cambios
+$ git status
+
+# Adición de archivos al área intermedia
+$ git add .
+
+# Commit
+$ git commit -m "Primera modificación"
+
+# Push
+git push -u origin master
+```
+
