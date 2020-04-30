@@ -76,6 +76,8 @@ $ cd
 $ mkdir pruebas-github-02
 $ cd pruebas-github-02
 
+# Cree un archivo para pruebas (README.md)
+
 # Inicialización
 $ git init
 $ git add .
