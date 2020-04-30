@@ -1,5 +1,5 @@
 # Tutorial sobre el sistema Git
-Manuel Vargas
+Manuel Vargas  
 2020-04-30
 
 ## Recursos de interés
