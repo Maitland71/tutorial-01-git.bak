@@ -5,9 +5,16 @@ Manuel Vargas
 ## Recursos de interés
 * Sitio oficial de Git: [Git](https://git-scm.com/).
 * Referencia de los comandos de Git: [Git commands](https://git-scm.com/docs/git#_git_commands).
+
 * Tutoriales sobre Git: [The Best Git Tutorials](https://www.freecodecamp.org/news/best-git-tutorial/).
 * Tutorial sobre comandos de Git (parte 1): [Git Commands Tutorial - Part 1](https://kolosek.com/git-commands-tutorial-part1/).
 * Tutorial sobre comandos de Git (parte 2): [Git Commands Tutorial - Part 2](https://kolosek.com/git-commands-tutorial-part2/).
+
+* Curso sobre investigación reproducible: [Reproducible Templates for Analysis and Dissemination - Git and Github Part 1](https://www.coursera.org/learn/reproducible-templates-analysis/lecture/Cg6k7/git-and-github-part-1).
+* Curso sobre investigación reproducible: [Reproducible Templates for Analysis and Dissemination - Git and Github Part 2](https://www.coursera.org/learn/reproducible-templates-analysis/lecture/Cg6k7/git-and-github-part-2).
+* Curso sobre investigación reproducible: [Reproducible Templates for Analysis and Dissemination - Git and Github Part 3](https://www.coursera.org/learn/reproducible-templates-analysis/lecture/Cg6k7/git-and-github-part-3).
+
+* Libro sobre Git, GitHub y R: [Happy Git and GitHub for the useR](https://happygitwithr.com/).
 
 ## Características generales
 [Git](https://git-scm.com/) es un sistema de [control de versiones](https://en.wikipedia.org/wiki/Version_control) diseñado para rastrear cambios en el código fuente durante el proceso de desarrollo de software. Sin embargo, puede ser utilizado para llevar el control de los cambios en cualquier conjunto de archivos. Un sistema de control de versiones proporciona, entre otras ventajas, la capacidad de recuperar versiones anteriores de un producto de softwware y la integración de modificaciones efectuadas por varios programadores.
